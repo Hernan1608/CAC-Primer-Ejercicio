@@ -7,11 +7,11 @@
 .size {
   width: 25vw;
   height: 25vw;
-  margin-right: 3px;
-  margin-left: 2x;
-  margin-top: 1px;
+  margin-right: 6px;
+  margin-left: 6x;
+  margin-top: 10px;
   margin-bottom: 2px;
-  font-size: medium;
+  font-size: xx-large;
 }
 .one {
   background-color: red;
