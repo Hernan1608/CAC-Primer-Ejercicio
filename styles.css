@@ -1,5 +1,6 @@
 .flex-conteiner {
   display: flex;
+  box-sizing: border-box;
 }
 
 .one {
