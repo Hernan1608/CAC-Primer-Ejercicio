@@ -1,0 +1,37 @@
+.flex-conteiner {
+  display: flex;
+}
+
+.one {
+  background-color: red;
+  color: #fff000;
+  width: 100px;
+  height: 100px;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+
+.two {
+  background-color: black;
+  color: #f1f1f1;
+  width: 100px;
+  height: 100px;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+
+.three {
+  background-color: red;
+  color: #fff000;
+  width: 100px;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+
+.four {
+  background-color: red;
+  color: #fff000;
+  width: 100px;
+  margin-right: 2px;
+  margin-left: 2px;
+}
